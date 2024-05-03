@@ -14,6 +14,9 @@ public class Main {
                     .forEach(System.out::println);
 
         System.out.println("My awemsome hotfix-1");
+        System.out.println("hotfi2 Daniel Zeile 16 weil ich blöd bin und nicht zu hör ");
 
+
+        System.out.println("hotfi2 Daniel ");
     }
 }
