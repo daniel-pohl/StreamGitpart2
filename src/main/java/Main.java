@@ -13,7 +13,7 @@ public class Main {
                     .filter(zahl -> zahl % 2 == 0)
                     .forEach(System.out::println);
 
-
+        System.out.println("hotfi2 Daniel Zeile 16 weil ich blöd bin und nicht zu hör ");
 
 
         System.out.println("hotfi2 Daniel ");
